@@ -1,0 +1,30 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 10px;
+  margin-left: 10%;
+  margin-bottom: 20px;
+  border-bottom: 1px dotted gray;
+}
+
+.left-section {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  background: none;
+  border: none;
+  margin-bottom: 4px;
+}
+
+.input-correction {
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin: 2px;
+  width: 200px;
+  padding: 5px;
+  font-family: 'Hahmlet-Regular';
+}
